@@ -1,2 +1,0 @@
-# origami
-by smit
